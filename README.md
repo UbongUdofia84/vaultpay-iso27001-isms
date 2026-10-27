@@ -235,4 +235,4 @@ VaultPay Technologies is a hypothetical company created for the 10Alytics GRC tr
 
 ## Author
 
-**Ubong Udofia**, PMP. GRC and IT audit.
+**Ubong Udofia**, PMP.
